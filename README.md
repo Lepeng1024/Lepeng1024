@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lepeng Zhou
-- 👀 I’m interested in machine learning, data science, software developing.
+- 👀 I’m interested in machine learning, data science, software engineering.
 - 🌱 I’m currently learning computing science at University of Alberta
 - 💞️ I’m looking for on all sorts of internship and entry level jobs.
 
